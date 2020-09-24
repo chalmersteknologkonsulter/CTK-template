@@ -17,3 +17,6 @@ git clone git@github.com:chalmersteknologkonsulter/CTK-template.wiki.git
 cd CTK-template.wiki
 git push -f <URL YOU COPIED IN STEP 2>
 ````
+
+# Scripts
+You can find the full documentation of the scripts [here](https://github.com/chalmersteknologkonsulter/Pollux).
