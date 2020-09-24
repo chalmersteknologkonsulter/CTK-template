@@ -2,9 +2,13 @@
 Issue, wiki and README templates
 
 # Follow these steps to generate a wiki template
+
 **1.** Click on the wiki tab and create a wiki repository for your project.
+
 **2.** Copy the url on the bottom right of your wiki tab.
+
 **3.** Go to your terminal or command line.
+
 **4.** Type in these commands:
 
 ````
