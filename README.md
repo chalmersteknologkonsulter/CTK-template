@@ -15,7 +15,7 @@ git clone git@github.com:chalmersteknologkonsulter/CTK-template.wiki.git
 
 
 cd CTK-template.wiki
-git push -f <URL YOU COPIED IN STEP 2>
+git push -f <URL YOU COPIED IN STEP TWO>
 ````
 
 # Scripts
