@@ -19,4 +19,4 @@ git push -f <URL YOU COPIED IN STEP 2>
 ````
 
 # Scripts
-You can find the full documentation of the scripts [here](https://github.com/chalmersteknologkonsulter/Pollux).
+You can find the full documentation of the scripts [here](https://github.com/chalmersteknologkonsulter/Pollux) and [here](https://github.com/chalmersteknologkonsulter/Pollux/wiki).
